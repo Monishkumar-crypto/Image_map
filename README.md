@@ -23,7 +23,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
-
+```
 <!DOCTYPE html>
 
  <html>
@@ -206,7 +206,7 @@ bala.html
     </style>
 
  </html>
-
+```
 # OUTPUT
 
 ![392891947-e330be59-ac15-4f28-afd8-d412211518b0](https://github.com/user-attachments/assets/a96c31ca-dfd8-4f10-8b53-21e6b7725f57)
